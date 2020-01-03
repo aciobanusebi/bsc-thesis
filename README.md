@@ -4,7 +4,7 @@
 
 **Title**: Visualization and analysis of spatial data
 
-**Demo**: demo.webm
+**Demo**: https://youtu.be/Czs3ZvVhzYg
 
 2017 summer, FII, UAIC, Iasi, Romania
 
